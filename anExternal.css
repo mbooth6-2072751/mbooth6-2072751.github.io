@@ -13,3 +13,13 @@ p.round2 {
 	border: 2px solid red;
 	border-radius: 8px;
 }
+
+.fart {
+  float: right;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
